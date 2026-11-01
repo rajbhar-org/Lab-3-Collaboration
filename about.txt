@@ -1,0 +1,7 @@
+Project: Git Collaboration Lab
+
+This is my About Page.
+
+Developer: Rupesh
+
+Purpose: Learning Git and GitHub collaboration.
